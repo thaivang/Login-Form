@@ -1,0 +1,13 @@
+/* Debug for chrome */
+{
+    "configurations": [
+ 
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Debug in Chrome",
+            "url": "${workspaceFolder}/index.html",
+        }
+    ]
+ }
+ 
